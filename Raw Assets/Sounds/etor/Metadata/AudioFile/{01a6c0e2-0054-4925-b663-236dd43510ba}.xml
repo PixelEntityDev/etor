@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.01.00">
+	<object class="AudioFile" id="{01a6c0e2-0054-4925-b663-236dd43510ba}">
+		<property name="assetPath">
+			<value>Music/space_travel.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>135.0530612244898</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{be5e30dc-b261-4bbd-9146-2f798f733d0e}</destination>
+		</relationship>
+	</object>
+</objects>
